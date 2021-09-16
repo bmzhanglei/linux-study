@@ -207,7 +207,8 @@
 			unzip public.zip -d dir             
 
 		3.查看
-			nzip -l public.zip
+            zip -sf aaa.zip
+			// nzip -l public.zip 有问题
 
 		4、安装zip减压软件
 
